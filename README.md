@@ -1,4 +1,6 @@
-## Hi there 👋
+ただのFLOSSエンドユーザです。皆様の貢献に感謝します。 I am just a FLOSS end‑user. I appreciate your contributions.
+
+今のところGithubはメインに使っておらず、他のフォージをメインに使っています。I don't use Github as my main platform.
 
 <!--
 **Sumiinix/Sumiinix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
