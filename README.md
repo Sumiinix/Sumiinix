@@ -2,6 +2,8 @@
 
 今のところGithubはメインに使っておらず、他のフォージをメインに使っています。I don't use Github as my main platform.
 
+[https://kangeku.ankwmsk.com/](https://kangeku.ankwmsk.com/) にはアクセスしないでください（やばいわよ！！）。
+
 <!--
 **Sumiinix/Sumiinix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
